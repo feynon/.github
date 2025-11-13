@@ -1,6 +1,5 @@
-I'm Ankesh Bharti, an independent researcher and technologist based in Bengaluru, India. I’m interested in anthropology, neural networks, semiconductors, cybernetics, ventures, and public transit.
 
-I'm Ankesh Bharti, an independent researcher, technologist and a digital nomad with my permanent base in Tatanagar, India. I’m interested in anthropology, hard sci-fi, cybernetics, biology, and public transit.
+I'm Ankesh Bharti (he/him/26), an independent researcher, technologist and a digital nomad with my permanent base in Tatanagar, India. I’m interested in bikes, anthropology, hard sci-fi, and cybernetics.
 
 My current work focuses on privacy-first, on-device AI memory. To that end I'm building [Tiles](https://tiles.run/?utm_source=ankeshbharti), and serve as a community steward at [User & Agents](https://www.userandagents.com/?utm_source=ankeshbharti.com).
 
